@@ -12,6 +12,6 @@ public class NamesController {
 	@PostMapping("/getName")
 	public String getName() {
 		return "Majid Soliman On Azure";
-	}
+	}//commit 
 	
 }
